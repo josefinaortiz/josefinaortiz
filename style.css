@@ -1,0 +1,127 @@
+#nombrenavbar {
+    padding-left: 25px;
+    font-family: 'Uchen', serif;
+}
+
+#titulo {
+    font-family: 'Parisienne', cursive;
+    padding-top: 175px;
+}
+.container1 {
+    padding-top: 125px;
+    padding-bottom: 125px;
+    text-align: center;
+    align-items: center;
+}
+#logostecnología{
+    padding-left: 50px;
+    padding-top: 80px;
+}
+#container2 {
+    background-color: #ADC178;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.sobremibody {
+    font-family: 'Parisienne', cursive;
+    text-align: center;
+}
+
+#titulotecnologias {
+    font-family: 'Parisienne', cursive;
+    font-size: x-large;
+    text-align: center;
+}
+
+#titulohobbies {
+    font-family: 'Parisienne', cursive;
+    font-size: x-large;
+    text-align: center;
+}
+
+#lista1 {
+    font-family: 'Uchen', serif;
+    font-size: x-large;
+}
+
+#lista2 {
+    font-family: 'Uchen', serif;
+    font-size: x-large;
+    padding-top: 60px;
+}
+
+#libros {
+    padding-top: 75px;
+}
+
+.estudiosbody {
+    background-color: #c0b589;
+}
+
+#tituloestudios{
+    font-family: 'Parisienne', cursive;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#estudiosparrafo {
+    font-family: 'Uchen', serif;
+    font-size: larger;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+#textoMET {
+    color: black;
+}
+
+#textochampaqui {
+    color: black;
+}
+
+#textohogwarts {
+    color: black;
+}
+
+.titulomisviajes {
+    font-family: 'Parisienne', cursive;
+    font-size: x-large;
+    text-align: center;
+    background-color: #cba382;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.titulocontacto {
+    font-family: 'Parisienne', cursive;
+    font-size: x-large;
+    text-align: center;
+    background-color: #99b87a;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#footer {
+    background-color: #99b87a;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#footerlogo {
+    text-align: center;
+    color:black
+}
+
+.footermedia {
+    color: black;
+}
+
+.linkplaces {
+    color: black;
+}
